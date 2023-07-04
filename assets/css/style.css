@@ -206,8 +206,8 @@ hr {
 }
 
 #times div {
-    color: #fafafa;
-    background-color: rgba(o, o, o, .6);
+    color: rgb(237, 245, 245);
+    background-color: rgba(1, 1, 1, .6);
     width: 20%;
     height: 300px;
     float: left;
@@ -219,7 +219,7 @@ hr {
 }
 
 #times h2 {
-    color: #fafafa;
+    color: rgb(237, 245, 245);
 }
 
 /* footer */
